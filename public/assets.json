@@ -1,31 +1,31 @@
 {
   "hero": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/smoketest-1778275261/cleo/1778276036508-hero.png",
+    "alt": "Full-bleed urban morning dog-walk hero with a single leashed dog and owner cropped away from facial detail, leaving negative space for the headline and inline email form. It fits PawWalk’s trusted, ur",
     "width": 1920,
     "height": 1080
   },
   "feature_1": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/smoketest-1778275261/cleo/1778276068882-feature_1.png",
+    "alt": "Flexible-scheduling support image showing a calm dog at an apartment entry while the cropped owner checks a phone, with no readable UI or brand marks. The composition supports concise feature copy wit",
     "width": 800,
     "height": 600
   },
   "feature_2": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/smoketest-1778275261/cleo/1778276033256-feature_2.png",
+    "alt": "Trusted-walkers support image focused on leash and harness handling, with the walker cropped to avoid facial detail and keep attention on care, safety, and reliability. The close crop, natural dayligh",
     "width": 800,
     "height": 600
   },
   "feature_3": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/smoketest-1778275261/cleo/1778276064245-feature_3.png",
+    "alt": "Easy-mobile-booking support image showing a dog walk in progress with a cropped owner holding a phone at the frame edge, keeping the screen unreadable. The city-walk geometry, restrained color grade, ",
     "width": 800,
     "height": 600
   },
   "social_proof": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/smoketest-1778275261/cleo/1778276042427-social_proof.png",
+    "alt": "Testimonial accent image built as an overhead still life of candid dog-walk photo prints on a café table, giving the page a tactile trust-capsule background. It matches the creative direction through ",
     "width": 1200,
     "height": 800
   }
