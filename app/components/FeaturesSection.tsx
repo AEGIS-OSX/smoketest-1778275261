@@ -37,7 +37,7 @@ export default function FeaturesSection() {
       viewport={{ once: true, margin: "-100px" }}
       transition={{ duration: 0.55, ease: "easeOut" }}
     >
-      <div className="section-container">
+      <div className="section-container features-shell">
         <div className="section-intro">
           <p className="eyebrow">What PawWalk does for you</p>
           <h2 className="section-title">What PawWalk does for you</h2>
@@ -52,35 +52,35 @@ export default function FeaturesSection() {
           viewport={{ once: true, margin: "-100px" }}
         >
           <motion.article className="feature-row" variants={featureRowVariants}>
-            <div className="feature-copy">
-              <p className="eyebrow">Flexible scheduling</p>
-              <h3>Flexible scheduling</h3>
-              <p>Schedule a walk for today, tonight, or every weekday. Choose one-off walks or set a recurring slot that matches your commute.</p>
-            </div>
             <div className="feature-media">
               <ProjectImage id="feature_1" className="feature-image" />
+            </div>
+            <div className="feature-copy">
+              <p className="eyebrow">Flexible scheduling</p>
+              <h3 className="feature-title">Flexible scheduling</h3>
+              <p className="feature-body">Schedule a walk for today, tonight, or every weekday. Choose one-off walks or set a recurring slot that matches your commute.</p>
             </div>
           </motion.article>
 
           <motion.article className="feature-row reverse" variants={featureRowVariants}>
-            <div className="feature-copy">
-              <p className="eyebrow">Trusted walkers</p>
-              <h3>Vetted walkers and simple safety</h3>
-              <p>Walkers are screened, insured, and selected for punctuality and care. Each walk includes GPS tracking so you can follow the route in real time.</p>
-            </div>
             <div className="feature-media">
               <ProjectImage id="feature_2" className="feature-image" />
+            </div>
+            <div className="feature-copy">
+              <p className="eyebrow">Trusted walkers</p>
+              <h3 className="feature-title">Vetted walkers and simple safety</h3>
+              <p className="feature-body">Walkers are screened, insured, and selected for punctuality and care. Each walk includes GPS tracking so you can follow the route in real time.</p>
             </div>
           </motion.article>
 
           <motion.article className="feature-row" variants={featureRowVariants}>
-            <div className="feature-copy">
-              <p className="eyebrow">Easy mobile booking</p>
-              <h3>Easy mobile booking</h3>
-              <p>Book and manage walks from your phone. No apps to learn, no long forms, just an email to get started and a tap to schedule when we open in your neighborhood.</p>
-            </div>
             <div className="feature-media">
               <ProjectImage id="feature_3" className="feature-image" />
+            </div>
+            <div className="feature-copy">
+              <p className="eyebrow">Easy mobile booking</p>
+              <h3 className="feature-title">Easy mobile booking</h3>
+              <p className="feature-body">Book and manage walks from your phone. No apps to learn, no long forms, just an email to get started and a tap to schedule when we open in your neighborhood.</p>
             </div>
           </motion.article>
         </motion.div>
